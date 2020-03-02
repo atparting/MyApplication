@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="student">student</string>
+    <string name="photo">photo</string>
+    <string name="userName">用户名</string>
+    <string name="password">密&#160;&#160;&#160;&#160;码</string>
+    <string name="userName_input">userName</string>
+    <string name="user_name">user name</string>
+    <string name="login">登&#160;&#160;&#160;&#160;陆</string>
+    <string name="userNameHint">请输入用户名</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="bankerCard">庄家手牌：</string>
+    <string name="playerCard">你的手牌：</string>
+    <string name="dealCard">发牌</string>
+    <string name="showCard">摊牌</string>
+    <string name="rematch">下一把</string>
+    <string name="recordInitText">赢: 0 输: 0</string>
+    <string name="menuInfo">个人信息</string>
+    <string name="menuBlackjack">21点</string>
+</resources>
